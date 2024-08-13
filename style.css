@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.dark-mode {
+    background-color: #121212;
+    color: white;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.btn-primary {
+    background-color: red;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: darkred;
+}
